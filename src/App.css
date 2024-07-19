@@ -1,0 +1,21 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+ 
+  text-align: center;
+}
+
+
+
+
+
+.read-the-docs {
+  color: #888;
+}
+
+.mainContainer{
+  width: 200px;
+  height: 200px;
+  border-radius: 10px;
+ /* background-color: beige; */
+}
